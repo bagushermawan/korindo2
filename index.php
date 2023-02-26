@@ -21,6 +21,7 @@ http://www.templatemo.com/tm-488-classic
     <link rel="stylesheet" href="css/stylemn.css">
     <link rel="stylesheet" type="text/css" href="css/styleglr.css" />
     <link rel="stylesheet" type="text/css" href="css/close.css" />
+    <link rel="stylesheet" type="text/css" href="css/partner.css" />
 
     <!-- Google web font "Open Sans" -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -39,6 +40,8 @@ http://www.templatemo.com/tm-488-classic
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
           <![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/style2.css" />
+
 </head>
 
 <body>

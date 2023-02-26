@@ -550,7 +550,7 @@ body {
   background-color: #aebfc7;
 }
 .Gallery--active {
-  z-index: 9999;
+  z-index: 99999;
   background: #fff;
   transform: scale(1);
   opacity: 1;

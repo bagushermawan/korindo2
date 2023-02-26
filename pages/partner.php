@@ -100,7 +100,7 @@
 
         </nav>
     </header>
-    <section class="tm-section">
+    <!-- <section class="tm-section">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-xs-center">
@@ -186,14 +186,58 @@
                     </div>
                 </div>
 
-            </div> <!-- row -->
+            </div>
         </div>
         </div>
 
         </div>
 
         </div>
-        </div> <!-- row -->
+        </div> 
 
+        </div>
+    </section> -->
+
+
+    <section class="section section-default mt-none mb-none">
+        <div class="container">
+            <h1 class="tittle">Our Partners</h1>
+            <hr>
+            <strong>
+                <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/dsme.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/hyundai.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/koshipa.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/machnational.png" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/pds.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <div class="square-holder">
+                            <img alt="" src="img/krn/krndprtn/samsung.png" />
+                        </div>
+                    </div>
+                </div>
+            </strong>
         </div>
     </section>
