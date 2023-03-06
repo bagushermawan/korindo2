@@ -98,168 +98,330 @@
 
     </nav>
 </header>
-<section class="tm-section">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-xs-center">
-                <h1 class="tittle">Gallery</h1>
-                <hr width="100%">
-                <p class="tm-subtitle"></p>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-xs-center">
+    <h1 style="font-family: 'Economica', Arial, sans-serif;
+    font-size: 35px;
+    color: #0c2349;
+    position: relative;
+    text-align: center;text-align:center;">Gallery</h1>
+    <hr style="border: 3px solid #cccccc;border-radius: 5px;width: 80%;margin: revert;">
+    <!-- <p class="tm-subtitle"></p> -->
+</div>
+<main class="main">
+    <div class="container">
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\1.jpg" data-fancybox="gallery">
+                    <img src="img\krn\1.jpg" alt="Image Gallery">
+                </a>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri1.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri2.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri3.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri4.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri5.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
-                <div class="tm-content-box">
-                    <div class="zoom-effect">
-                        <div class="kotak">
-                            <img src="images/galeri6.jpg" alt="Image" class="tm-margin-b-20 img-fluid"></a>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-
-        </div>  -->
-        <div class="row">
-            <div class="Grid-row">
-                <a class="Card" onClick="openGallery(1)" id="card-1">
-                    <div class="Card-thumb">
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-image" loading="lazy" style="background-image: url(img/krn/krndeng/20221011_132756.jpg)"></div>
-                    </div>
-                    <div class="Card-title"><span>Korindo Engineering</span></div>
-                    <div class="Card-explore"><span>Explore 5 more</span></div>
-                    <button class="Card-button">view more</button>
-                </a>
-                <a class="Card" onClick="openGallery(2)" id="card-2">
-                    <div class="Card-thumb">
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-image" loading="lazy" style="background-image: url(img/krn/krndlpngn/ss7.png)"></div>
-                    </div>
-                    <div class="Card-title"><span>Korindo Welding Area</span></div>
-                    <div class="Card-explore"><span>Explore 7 more</span></div>
-                    <button class="Card-button">view more</button>
-                </a>
-                <a class="Card" onClick="openGallery(3)" id="card-3">
-                    <div class="Card-thumb">
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-image" loading="lazy" style="background-image: url(img/krn/krndmt/20220719_104545.jpg)"></div>
-                    </div>
-                    <div class="Card-title"><span>Korindo Meeting Section</span></div>
-                    <div class="Card-explore"><span>Explore 11 more</span></div>
-                    <button class="Card-button">view more</button>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\2.jpg" data-fancybox="gallery">
+                    <img src="img\krn\2.jpg" alt="Image Gallery">
                 </a>
             </div>
-
-            <div class="Grid-row">
-                <a class="Card" onClick="openGallery(4)" id="card-4">
-                    <div class="Card-thumb">
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-image" loading="lazy" style="background-image: url(img/krn/krndof/IMG-20221010-WA0008xx.jpg)"></div>
-                    </div>
-                    <div class="Card-title"><span>Korindo Officer</span></div>
-                    <div class="Card-explore"><span>Explore 1 more</span></div>
-                    <button class="Card-button">view more</button>
-                </a>
-                <a class="Card" onClick="openGallery(5)" id="card-5">
-                    <div class="Card-thumb">
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-shadow"></div>
-                        <div class="Card-image" loading="lazy" style="background-image: url(img/krn/krndwld/20220910_102220.jpg)"></div>
-                    </div>
-                    <div class="Card-title"><span>Korindo Welding Section</span></div>
-                    <div class="Card-explore"><span>Explore 50 more</span></div>
-                    <button class="Card-button">view more</button>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\3.jpg" data-fancybox="gallery">
+                    <img src="img\krn\3.jpg" alt="Image Gallery">
                 </a>
             </div>
-
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\4.jpg" data-fancybox="gallery">
+                    <img src="img\krn\4.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\5.jpg" data-fancybox="gallery">
+                    <img src="img\krn\5.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\6.jpg" data-fancybox="gallery">
+                    <img src="img\krn\6.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\7.jpg" data-fancybox="gallery">
+                    <img src="img\krn\7.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\8.jpg" data-fancybox="gallery">
+                    <img src="img\krn\8.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\9.jpg" data-fancybox="gallery">
+                    <img src="img\krn\9.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\10.jpg" data-fancybox="gallery">
+                    <img src="img\krn\10.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\11.jpg" data-fancybox="gallery">
+                    <img src="img\krn\11.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\12.jpg" data-fancybox="gallery">
+                    <img src="img\krn\12.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\12.jpg" data-fancybox="gallery">
+                    <img src="img\krn\12.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\13.jpg" data-fancybox="gallery">
+                    <img src="img\krn\13.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\14.jpg" data-fancybox="gallery">
+                    <img src="img\krn\14.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\15.jpg" data-fancybox="gallery">
+                    <img src="img\krn\15.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\16.jpg" data-fancybox="gallery">
+                    <img src="img\krn\16.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\17.jpg" data-fancybox="gallery">
+                    <img src="img\krn\17.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\18.jpg" data-fancybox="gallery">
+                    <img src="img\krn\18.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\19.jpg" data-fancybox="gallery">
+                    <img src="img\krn\19.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\20.jpg" data-fancybox="gallery">
+                    <img src="img\krn\20.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\21.jpg" data-fancybox="gallery">
+                    <img src="img\krn\21.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\22.jpg" data-fancybox="gallery">
+                    <img src="img\krn\22.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\23.jpg" data-fancybox="gallery">
+                    <img src="img\krn\23.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\24.jpg" data-fancybox="gallery">
+                    <img src="img\krn\24.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\25.jpg" data-fancybox="gallery">
+                    <img src="img\krn\25.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\27.jpg" data-fancybox="gallery">
+                    <img src="img\krn\27.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\28.jpg" data-fancybox="gallery">
+                    <img src="img\krn\28.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\29.jpg" data-fancybox="gallery">
+                    <img src="img\krn\29.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\30.jpg" data-fancybox="gallery">
+                    <img src="img\krn\30.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\31.jpg" data-fancybox="gallery">
+                    <img src="img\krn\31.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\32.jpg" data-fancybox="gallery">
+                    <img src="img\krn\32.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\33.jpg" data-fancybox="gallery">
+                    <img src="img\krn\33.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\34.jpg" data-fancybox="gallery">
+                    <img src="img\krn\34.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\35.jpg" data-fancybox="gallery">
+                    <img src="img\krn\35.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\36.jpg" data-fancybox="gallery">
+                    <img src="img\krn\36.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\37.jpg" data-fancybox="gallery">
+                    <img src="img\krn\37.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\38.jpg" data-fancybox="gallery">
+                    <img src="img\krn\38.jpg" alt="Image Gallery">
+                </a>
+            </div>
         </div>
     </div>
-    </div>
-</section>
 
-<!-- View More -->
-<section class="Gallery" id="gallery-1">
-    <div class="Gallery-header">
-        <!-- <a class="Gallery-close" onclick="closeAll()">×</a> -->
-        <div class="close-container" onclick="closeAll()">
-            <div class="leftright"></div>
-            <div class="rightleft"></div>
-            <label class="closee" onclick="closeAll()">Close</label>
+    <h1 style="font-family: 'Economica', Arial, sans-serif;font-size: 35px;color: #0c2349;position: relative;text-align: center;text-align:center;">Video</h1>
+
+    <div class="container">
+        <!-- video -->
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\26.mp4" data-fancybox="gallery">
+                    <img src="img\krn\26a.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\39.mp4" data-fancybox="gallery">
+                    <img src="img\krn\39a.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\40.mp4" data-fancybox="gallery">
+                    <img src="img\krn\40a.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\41.mp4" data-fancybox="gallery">
+                    <img src="img\krn\41a.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\42.mp4" data-fancybox="gallery">
+                    <img src="img\krn\42a.jpg" alt="Image Gallery">
+                </a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-image">
+                <a href="img\krn\43.mp4" data-fancybox="gallery">
+                    <img src="img\krn\43a.jpg" alt="Image Gallery">
+                </a>
+            </div>
         </div>
     </div>
-    <div class="Gallery-images">
-        <div class="Gallery-left">
-            <div class="Gallery-image" style="background-image: url(img/krn/krndeng/a.jpg)"></div>
-            <div class="Gallery-image" style="background-image: url(img/krn/krndeng/b.jpg)"></div>
-        </div>
-        <div class="Gallery-image Gallery-image--primary" style="background-image: url(img/krn/krndeng/20221011_132756.jpg)"></div>
-    </div>
-    <div class="Gallery-images">
-        <div class="Gallery-image" style="background-image: url(img/krn/krndeng/c.jpg)"></div>
-        <div class="Gallery-image" style="background-image: url(img/krn/krndeng/d.jpg)"></div>
-        <div class="Gallery-image" style="background-image: url(img/krn/krndeng/e.png)"></div>
-    </div>
-</section>
+</main>

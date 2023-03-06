@@ -19,12 +19,17 @@ http://www.templatemo.com/tm-488-classic
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
     <link rel="stylesheet" href="css/stylemn.css">
-    <link rel="stylesheet" type="text/css" href="css/styleglr.css" />
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css'>
+    <link rel="stylesheet" href="css/gallery.css">
+    <!-- <link rel="stylesheet" href="css/jquery.fancybox-1.3.4.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/styleglr.css" /> -->
     <link rel="stylesheet" type="text/css" href="css/close.css" />
     <link rel="stylesheet" type="text/css" href="css/partner.css" />
 
     <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
     <link rel="stylesheet" href="css/templatemo-style.css">
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/style2.css" />
@@ -84,32 +89,22 @@ http://www.templatemo.com/tm-488-classic
         </div>
     </footer>
     <script type="text/javascript" src="js/scriptmn.js"></script>
-    <script type="text/javascript" src="js/scriptglr.js"></script>
+    <!-- <script type="text/javascript" src="js/scriptglr.js"></script> -->
 
     <!-- load JS files -->
-    <script src="js/jquery-1.11.3.min.js"></script> <!-- jQuery (https://jquery.com/download/) -->
-    <script src="https://www.atlasestateagents.co.uk/javascript/tether.min.js"></script> <!-- Tether for Bootstrap, http://stackoverflow.com/questions/34567939/how-to-fix-the-error-error-bootstrap-tooltips-require-tether-http-github-h -->
-    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap (http://v4-alpha.getbootstrap.com/) -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery.cslider.js"></script>
-    <script type="text/javascript">
-        $('#myCarousel').on('slide.bs.carousel', function() {
-            $('.carousel').carousel({
-                interval: 100
-            });
-        });
-    </script>
-
-    <script type="text/javascript">
-        $(function() {
-
-            $('#da-slider').cslider({
-                autoplay: true,
-                bgincrement: 450
-            });
-
-        });
-    </script>
+    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+    <!-- <script src="js/jquery-1.11.3.min.js"></script> -->
+    <!-- <script src="js/jquery-1.4.3.min.js"></script> -->
+    <!-- <script src="js/jquery.fancybox-1.3.4.js"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>  -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js'></script>
+    <script src="js/gallery.js"></script>
+    <!-- <script src="js/bootstrap.min.js"></script> -->
 
 
 
