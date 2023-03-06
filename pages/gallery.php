@@ -112,266 +112,266 @@
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\1.jpg" data-fancybox="gallery">
-                    <img src="img\krn\1.jpg" alt="Image Gallery">
+                    <img src="img\krn\1.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\2.jpg" data-fancybox="gallery">
-                    <img src="img\krn\2.jpg" alt="Image Gallery">
+                    <img src="img\krn\2.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\3.jpg" data-fancybox="gallery">
-                    <img src="img\krn\3.jpg" alt="Image Gallery">
+                    <img src="img\krn\3.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\4.jpg" data-fancybox="gallery">
-                    <img src="img\krn\4.jpg" alt="Image Gallery">
+                    <img src="img\krn\4.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\5.jpg" data-fancybox="gallery">
-                    <img src="img\krn\5.jpg" alt="Image Gallery">
+                    <img src="img\krn\5.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\6.jpg" data-fancybox="gallery">
-                    <img src="img\krn\6.jpg" alt="Image Gallery">
+                    <img src="img\krn\6.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\7.jpg" data-fancybox="gallery">
-                    <img src="img\krn\7.jpg" alt="Image Gallery">
+                    <img src="img\krn\7.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\8.jpg" data-fancybox="gallery">
-                    <img src="img\krn\8.jpg" alt="Image Gallery">
+                    <img src="img\krn\8.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\9.jpg" data-fancybox="gallery">
-                    <img src="img\krn\9.jpg" alt="Image Gallery">
+                    <img src="img\krn\9.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\10.jpg" data-fancybox="gallery">
-                    <img src="img\krn\10.jpg" alt="Image Gallery">
+                    <img src="img\krn\10.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\11.jpg" data-fancybox="gallery">
-                    <img src="img\krn\11.jpg" alt="Image Gallery">
+                    <img src="img\krn\11.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\12.jpg" data-fancybox="gallery">
-                    <img src="img\krn\12.jpg" alt="Image Gallery">
+                    <img src="img\krn\12.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\12.jpg" data-fancybox="gallery">
-                    <img src="img\krn\12.jpg" alt="Image Gallery">
+                    <img src="img\krn\12.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\13.jpg" data-fancybox="gallery">
-                    <img src="img\krn\13.jpg" alt="Image Gallery">
+                    <img src="img\krn\13.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\14.jpg" data-fancybox="gallery">
-                    <img src="img\krn\14.jpg" alt="Image Gallery">
+                    <img src="img\krn\14.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\15.jpg" data-fancybox="gallery">
-                    <img src="img\krn\15.jpg" alt="Image Gallery">
+                    <img src="img\krn\15.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\16.jpg" data-fancybox="gallery">
-                    <img src="img\krn\16.jpg" alt="Image Gallery">
+                    <img src="img\krn\16.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\17.jpg" data-fancybox="gallery">
-                    <img src="img\krn\17.jpg" alt="Image Gallery">
+                    <img src="img\krn\17.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\18.jpg" data-fancybox="gallery">
-                    <img src="img\krn\18.jpg" alt="Image Gallery">
+                    <img src="img\krn\18.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\19.jpg" data-fancybox="gallery">
-                    <img src="img\krn\19.jpg" alt="Image Gallery">
+                    <img src="img\krn\19.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\20.jpg" data-fancybox="gallery">
-                    <img src="img\krn\20.jpg" alt="Image Gallery">
+                    <img src="img\krn\20.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\21.jpg" data-fancybox="gallery">
-                    <img src="img\krn\21.jpg" alt="Image Gallery">
+                    <img src="img\krn\21.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\22.jpg" data-fancybox="gallery">
-                    <img src="img\krn\22.jpg" alt="Image Gallery">
+                    <img src="img\krn\22.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\23.jpg" data-fancybox="gallery">
-                    <img src="img\krn\23.jpg" alt="Image Gallery">
+                    <img src="img\krn\23.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\24.jpg" data-fancybox="gallery">
-                    <img src="img\krn\24.jpg" alt="Image Gallery">
+                    <img src="img\krn\24.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\25.jpg" data-fancybox="gallery">
-                    <img src="img\krn\25.jpg" alt="Image Gallery">
+                    <img src="img\krn\25.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\27.jpg" data-fancybox="gallery">
-                    <img src="img\krn\27.jpg" alt="Image Gallery">
+                    <img src="img\krn\27.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\28.jpg" data-fancybox="gallery">
-                    <img src="img\krn\28.jpg" alt="Image Gallery">
+                    <img src="img\krn\28.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\29.jpg" data-fancybox="gallery">
-                    <img src="img\krn\29.jpg" alt="Image Gallery">
+                    <img src="img\krn\29.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\30.jpg" data-fancybox="gallery">
-                    <img src="img\krn\30.jpg" alt="Image Gallery">
+                    <img src="img\krn\30.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\31.jpg" data-fancybox="gallery">
-                    <img src="img\krn\31.jpg" alt="Image Gallery">
+                    <img src="img\krn\31.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\32.jpg" data-fancybox="gallery">
-                    <img src="img\krn\32.jpg" alt="Image Gallery">
+                    <img src="img\krn\32.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\33.jpg" data-fancybox="gallery">
-                    <img src="img\krn\33.jpg" alt="Image Gallery">
+                    <img src="img\krn\33.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\34.jpg" data-fancybox="gallery">
-                    <img src="img\krn\34.jpg" alt="Image Gallery">
+                    <img src="img\krn\34.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\35.jpg" data-fancybox="gallery">
-                    <img src="img\krn\35.jpg" alt="Image Gallery">
+                    <img src="img\krn\35.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\36.jpg" data-fancybox="gallery">
-                    <img src="img\krn\36.jpg" alt="Image Gallery">
+                    <img src="img\krn\36.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\37.jpg" data-fancybox="gallery">
-                    <img src="img\krn\37.jpg" alt="Image Gallery">
+                    <img src="img\krn\37.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\38.jpg" data-fancybox="gallery">
-                    <img src="img\krn\38.jpg" alt="Image Gallery">
+                    <img src="img\krn\38.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
@@ -384,42 +384,42 @@
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\26.mp4" data-fancybox="gallery">
-                    <img src="img\krn\26a.jpg" alt="Image Gallery">
+                    <img src="img\krn\26a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\39.mp4" data-fancybox="gallery">
-                    <img src="img\krn\39a.jpg" alt="Image Gallery">
+                    <img src="img\krn\39a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\40.mp4" data-fancybox="gallery">
-                    <img src="img\krn\40a.jpg" alt="Image Gallery">
+                    <img src="img\krn\40a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\41.mp4" data-fancybox="gallery">
-                    <img src="img\krn\41a.jpg" alt="Image Gallery">
+                    <img src="img\krn\41a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\42.mp4" data-fancybox="gallery">
-                    <img src="img\krn\42a.jpg" alt="Image Gallery">
+                    <img src="img\krn\42a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
         <div class="card">
             <div class="card-image">
                 <a href="img\krn\43.mp4" data-fancybox="gallery">
-                    <img src="img\krn\43a.jpg" alt="Image Gallery">
+                    <img src="img\krn\43a.jpg" alt="Image Gallery" loading="lazy">
                 </a>
             </div>
         </div>
